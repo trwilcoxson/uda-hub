@@ -18,6 +18,9 @@ build/
 # Testing
 .pytest_cache/
 
+# Linting
+.ruff_cache/
+
 # IDE
 .vscode/
 .idea/
